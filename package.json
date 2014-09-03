@@ -1,0 +1,23 @@
+{
+  "name": "bai_4",
+  "version": "0.0.1",
+  "description": "",
+  "main": "net_chat_server_step_5_3.js",
+  "scripts": {
+    "start": "node net_chat_server_step_5_3.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xuonglaptrinh/bai_4"
+  },
+  "author": "NgaNguyenDuy && DavidNgv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xuonglaptrinh/bai_4/issues"
+  },
+  "homepage": "https://github.com/xuonglaptrinh/bai_4",
+  "dependencies": {
+    "cli-color": "^0.3.2",
+    "underscore": "^1.7.0"
+  }
+}
